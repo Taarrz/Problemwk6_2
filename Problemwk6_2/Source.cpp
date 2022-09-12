@@ -2,6 +2,7 @@
 int main() {
 	int n;
 	int count = 0;
+	printf("N = ");
 	scanf_s("%d",&n,sizeof(n));
 	int i = 0, j = 0;
 	int people[100][100];
